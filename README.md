@@ -2,9 +2,9 @@
 
 ## PINOUT
 
-Wszystkie piny z prefixem **T\_** dotyczą panelu dotykowego.
+**T\_** prefix - touch panel.
 
-| Pin | Funkcja                                             | Uwagi                        |
+| Pin | Function                                            | Comment                      |
 | --- | --------------------------------------------------- | ---------------------------- |
 | 15  | DATA TEMPERATURE SENSOR EXTERNAL                    | Data line for external temp. |
 | X   | DATA TEMPERATURE SENSOR INTERNAL                    | Data line for internal temp. |

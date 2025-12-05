@@ -8,7 +8,7 @@
 | --- | --------------------------------------------------- | ---------------------------- |
 | 27  | DATA TEMPERATURE SENSOR EXTERNAL                    | Data line for external temp. |
 | 33  | DATA TEMPERATURE SENSOR INTERNAL                    | Data line for internal temp. |
-| X   | BATTERY VOLTAGE DATA                                |                              |
+| 34  | BATTERY VOLTAGE DATA                                |                              |
 | 4   | DC                                                  | XXXXXX                       |
 | 5   | CS                                                  | Chip select for display      |
 | 2   | RESET                                               | XXXXXX                       |

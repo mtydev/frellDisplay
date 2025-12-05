@@ -7,7 +7,7 @@
 | Pin | Function                                            | Comment                      |
 | --- | --------------------------------------------------- | ---------------------------- |
 | 27  | DATA TEMPERATURE SENSOR EXTERNAL                    | Data line for external temp. |
-| X   | DATA TEMPERATURE SENSOR INTERNAL                    | Data line for internal temp. |
+| 33  | DATA TEMPERATURE SENSOR INTERNAL                    | Data line for internal temp. |
 | X   | BATTERY VOLTAGE DATA                                |                              |
 | 4   | DC                                                  | XXXXXX                       |
 | 5   | CS                                                  | Chip select for display      |
